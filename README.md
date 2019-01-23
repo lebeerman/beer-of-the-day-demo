@@ -10,3 +10,8 @@ Find the original project/crouse information here: []()
 
 
 #### Notes:
+
+
+#### TODO:
+- [] Update Auth Redirect Urls
+- [] Test a Zeit Deploy https://zeit.co/github-setup/learn
