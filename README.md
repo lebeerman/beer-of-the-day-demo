@@ -17,5 +17,5 @@ Find the original project/crouse information here: []()
     * https://stackoverflow.com/questions/13863297/firebase-what-is-the-api-key
 
 #### TODO:
-- [] Update Auth Redirect Urls
-- [] Test a Zeit Deploy https://zeit.co/github-setup/learn
+- [ ] Update Auth Redirect Urls
+- [ ] Test a Zeit Deploy https://zeit.co/github-setup/learn
