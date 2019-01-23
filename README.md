@@ -10,7 +10,11 @@ Find the original project/crouse information here: []()
 
 
 #### Notes:
-
+- Firebase Auth Resources:
+    * https://github.com/firebase/firebase-js-sdk
+    * https://firebase.google.com/docs/firestore/solutions/role-based-access
+    * https://firebase.google.com/docs/web/setup#add_firebase_to_your_app
+    * https://stackoverflow.com/questions/13863297/firebase-what-is-the-api-key
 
 #### TODO:
 - [] Update Auth Redirect Urls
