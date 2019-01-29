@@ -6,6 +6,7 @@ This demo is built on as a code along/refactor of the React for Beginners course
 Find the original project/crouse information here: []()
 
 ### Changelog:
+1/29/19 - auth redirect urls fixed and added deployed domain on Firebase - auth works on demo app
 1/23/19 - initial deploy to netlify
 
 
@@ -17,5 +18,4 @@ Find the original project/crouse information here: []()
     * https://stackoverflow.com/questions/13863297/firebase-what-is-the-api-key
 
 #### TODO:
-- [ ] Update Auth Redirect Urls
 - [ ] Test a Zeit Deploy https://zeit.co/github-setup/learn
